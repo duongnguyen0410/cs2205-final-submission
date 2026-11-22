@@ -11,9 +11,9 @@
 
 | Tài liệu | File PDF |
 | --- | --- |
-| Slide thuyết trình | [Xem slide](CS2205.FinalReport.Slide.pdf) |
-| Poster | [Xem poster](CS2205.FinalReport.Poster.pdf) |
-| Báo cáo đề cương | [Xem báo cáo](CS2205.FinalReport.Doc.pdf) |
+| Slide thuyết trình | [Xem slide](D%C6%B0%C6%A1ng%20Nguy%E1%BB%85n%20Xu%C3%A2n%20-%20CS2205.AUG2026.DeCuong.FinalReport.Slide.pdf) |
+| Poster | [Xem poster](D%C6%B0%C6%A1ng%20Nguy%E1%BB%85n%20Xu%C3%A2n%20-%20CS2205.AUG2026.DeCuong.FinalReport.Poster.pdf) |
+| Báo cáo đề cương | [Xem báo cáo](Nguye%CC%82%CC%83n%20Xua%CC%82n%20Du%CC%9Bo%CC%9Bng%20-%20CS2205.AUG2026.DeCuong.FinalReport.Doc.pdf) |
 
 ## Tóm tắt đề tài
 
